@@ -1,1 +1,2 @@
 # Sentiment_Analysis-Amazon-Reviews-
+I created a sentiment analysis model using the NLTK framework and the Spacy library to assess 10,000 Amazon reviews. I ensured that the sentiment of each review was accurately represented in the text data by employing tokenization and lemmatization techniques to prepare it for analysis. The model was able to accurately predict sentiment using the polarity scores that were produced during this preprocessing. In the end, the model gave a remarkable accuracy rate of 71.3%.
